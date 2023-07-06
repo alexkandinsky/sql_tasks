@@ -6,5 +6,5 @@
 ### Содержание:
 | №| Название курса| Ссылка на источник | Выполненные задачи |Статус курса |
 |---|-----------|-----------|------------------|--------------|
-|01.|SQL Academy|[sql-academy.org](https://sql-academy.org/ru/trainer)|[sql_academy_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/sql_academy_tasks%20.ipynb)| <span style="color: #ff6600;">Завершён</span>|
+|01.|SQL Academy|[sql-academy.org](https://sql-academy.org/ru/trainer)|[sql_academy_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/sql_academy_tasks%20.ipynb)| <span style="color💚;">Завершён</span>|
 |02.|Симулятор SQL для анализ данных|[karpov.courses](https://karpov.courses/simulator-sql)|[simulator_sql_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/simulator_sql_tasks.ipynb)| В процессе|
