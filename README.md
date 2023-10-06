@@ -8,4 +8,4 @@
 |---|-----------|-----------|------------------|--------------|
 |01.|SQL Academy|[sql-academy.org](https://sql-academy.org/ru/trainer)|[sql_academy_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/sql_academy_tasks%20.ipynb)|Завершён|
 |02.|Симулятор SQL|[karpov.courses](https://karpov.courses/simulator-sql)|[simulator_sql_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/simulator_sql_tasks.ipynb)|Завершён|
-|03.|Basic to intermediate SQL topics|[leetcode.com](https://leetcode.com/studyplan/top-sql-50/)|[leetcode_sql50_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/sql50_leetcode.ipynb)|Завершён|
+|03.|Basic to intermediate SQL topics|[leetcode.com](https://leetcode.com/studyplan/top-sql-50/)|[leetcode_sql50_tasks](https://github.com/alexkandinsky/sql_tasks/blob/main/sql50_leetcode_tasks.ipynb)|Завершён|
